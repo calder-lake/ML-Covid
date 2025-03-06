@@ -1,16 +1,15 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from utils import *
 import copy
 import math
 import pandas as pd
-import openpyxl
 
 
 # an underscore before a variable indicates that the variable should be private to the function/class
 # this is correct usage indicating that lambda can take on different values outside of this function.
 def compute_cost(X_train, Y_train, w, b, _lambda=2):
     m  = X_train.shape[0]
+    # never used?
     n  = len(w)
     cost = 0.
     # If you have a function take a parameter don't redefine it. Either make it an optional parameter,

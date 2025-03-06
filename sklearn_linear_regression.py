@@ -43,7 +43,7 @@ plt.plot(X, line, color = 'r')
 print(f'Equation of the data line: y={model.coef_[0][0]}x + {model.intercept_[0]}')
 
 # Splitting the data into training and testing data 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = .25) 
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = .2) 
 
 model.fit(X_train, y_train)
 line = model.coef_[0][0]*X + model.intercept_[0]
