@@ -16,7 +16,7 @@ However, many fatalities occurred prior to the availability of sequencing data, 
 The data support that at around the start of 2022, vaccinations plateaued at around 65% of the population. It is possible that at around this time vaccination and continuing infections led to a degree of herd immunity to protect against future spikes in cases. Indeed, following the peak in cases during the Summer of 2022, no dramatic spikes in cases are reported.
 ![VACCINATED!](Vaccinated.png)
 ![CASES_DATE!](Cases_date.png)
-Interestingly, at approximately the same time in 2022 the 7-day average fatality percentage of people admitted to hospitals for Covid began to drop, suggesting that even among hospitalized individuals, a lower proportion was dying 
+Interestingly, at approximately the same time in 2022 the 7-day average fatality percentage of people admitted to hospitals for Covid began to drop, suggesting that even among hospitalized individuals, a lower proportion was dying.
 ![DEATH_PERCENT!](Death_percent_of_hospitalized.png)
 Similarly, there is an apparent reduction in the number of hospitalizations over time starting in 2022.
 ![HOSPIT_CUMULATIVE!](see Hospit_cumulative.png) Together, these data indicate a noticeable turn in the pandemic took place in 2022 at a time when the percentage of the population that had been vaccinated reached approximately 65%. This makes sense in light of research published in early 2022 about the percentage vaccinated that would need to be reached in order to achieve herd immunity. 
