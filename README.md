@@ -3,7 +3,7 @@ Machine Learning to Model Public Health Data During Covid-19
   
   Objective: Using publicly available data about Covid-19 case rates in January 2022, a machine learning linear regression model was employed to predict 7-day average Covid-19 fatalities based on the day of the month. As it is well-documented that people with Covid-19 can be reinfected, it is expected that without intervention a similar pattern of fatalities across the month of January 2023 would occur. However, due to vaccination, fatalities were significantly reduced in January 2023. The regression will be repeated for 2023's data. The difference between the regression will be used to estimate the approximate lives spared by vaccination in the month of January 2023. To further explore interesting aspects of the pandemic, graphs and boxplots will be generated using ggplot in R. Interesting aspects about the unique impact of the pandemic on different demographics will be highlighted. 
   
-  Findings: The data visualization performed in this project supports that the oldest two age groups in Utah suffered many more fatalities during the course of the pandemic, even despite public awareness that the older population was particularly vulnerable
+  Findings: The data visualization performed in this project supports that the oldest two age groups in Utah suffered many more fatalities during the course of the pandemic, even despite public awareness that the older population was particularly vulnerable.
 ![COVID_AGE!](Deaths_box_age.png)
 ![COVID_AGE1!](7_day_line_deaths.png)
   
